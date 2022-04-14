@@ -68,3 +68,4 @@ export const freeDraw = async function(){
         method: 'post'
     });
 }
+
